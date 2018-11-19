@@ -21,8 +21,7 @@ avaliacoesUsuario = {'Lucas':
                    'The Hitchhiker''s Guide to the Galaxy': 4.0},
 
               'Gabryell':
-                  {'O Ultimato Bourne': 3.5,
-                   'Androides Sonham com Ovelhas Elétricas?': 3.5,
+                  {'Androides Sonham com Ovelhas Elétricas?': 3.5,
                    'Nineteen Eighty-Four': 3.0,
                    'Frankenstein': 4.5,
                    'Neuromancer': 4.0,
