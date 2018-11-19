@@ -1,4 +1,4 @@
-avaliacoesUsuario = {'Lucas':
+avaliacoes = {'Lucas':
                   {'Neuromancer': 2.5,
                    'Frankenstein': 3.5,
                    'Nineteen Eighty-Four': 3.0,
