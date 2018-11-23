@@ -1,103 +1,113 @@
 avaliacoesUsuario = {'Lucas':
-                  {'Neuromancer': 2.5,
-                   'Frankenstein': 3.5,
-                   'Nineteen Eighty-Four': 3.0,
-                   'The Hitchhiker''s Guide to the Galaxy': 3.5,
-                   'Androides Sonham com Ovelhas Elétricas?': 2.5,
-                   'Fahrenheit 451': 3.0},
+                  {'O Guia do Mochileiro das Galáxias': 4.5,
+                   'Orgulho e Preconceito': 1.6,
+                   'Os Crimes do Monograma': 2.4},
 
               'Ester':
-                  {'Neuromancer': 3.0,
-                   'Frankenstein': 3.5,
-                   'Nineteen Eighty-Four': 1.5,
-                   'The Hitchhiker''s Guide to the Galaxy': 5.0,
-                   'Androides Sonham com Ovelhas Elétricas?': 3.0,
-                   'Fahrenheit 451': 3.5},
+                  {'O Guia do Mochileiro das Galáxias': 5.0,
+                   'Neuromancer': 4.2,
+                   'A Culpa é das Estrelas': 3.0,
+                   'Orgulho e Preconceito': 4.8,
+                   'Os Crimes do Monograma': 3.0,
+                   'Fortaleza Digital': 3.8},
 
               'Douglas':
-                  {'Neuromancer': 2.5,
-                   'Frankenstein': 3.0,
-                   'Nineteen Eighty-Four': 3.5,
-                   'The Hitchhiker''s Guide to the Galaxy': 4.0},
+                  {'O Guia do Mochileiro das Galáxias': 3.5,
+                   'Neuromancer': 4.5,
+                   'Orgulho e Preconceito': 2.1,
+                   'Os Crimes do Monograma': 3.2},
 
               'Gabryell':
-                  {'Androides Sonham com Ovelhas Elétricas?': 3.5,
-                   'Nineteen Eighty-Four': 3.0,
-                   'Frankenstein': 4.5,
-                   'Neuromancer': 4.0,
-                   'Fahrenheit 451': 2.5},
+                  {'A Culpa é das Estrelas': 1.9,
+                   'Orgulho e Preconceito': 2.5,
+                   'Fortaleza Digital': 4.7},
 
               'Humberto':
-                  {'Frankenstein': 3.0,
-                   'Nineteen Eighty-Four': 4.0,
-                   'Neuromancer': 2.0,
-                   'The Hitchhiker''s Guide to the Galaxy': 3.0,
-                   'Androides Sonham com Ovelhas Elétricas?': 3.0,
-                   'Fahrenheit 451': 2.0},
-
-              'Diego':
-                  {'Nineteen Eighty-Four': 3.0,
-                   'Frankenstein': 4.0,
-                   'Neuromancer': 3.0,
-                   'The Hitchhiker''s Guide to the Galaxy': 5.0,
-                   'Fahrenheit 451': 3.5},
+                  {'O Guia do Mochileiro das Galáxias': 2.5,
+                   'Orgulho e Preconceito': 4.5},
 
               'Patrick':
-                  {'Nineteen Eighty-Four': 4.5,
-                   'The Hitchhiker''s Guide to the Galaxy': 1.0,
-                   'Neuromancer': 4.0}
+                  {'O Guia do Mochileiro das Galáxias': 1.5,
+                   'Neuromancer': 3.3,
+                   'A Culpa é das Estrelas': 3.9,
+                   'Os Crimes do Monograma': 4.0},
+
+               'Matheus':
+                  {'O Guia do Mochileiro das Galáxias': 4.5,
+                   'Neuromancer': 4.8,
+                   'A Culpa é das Estrelas': 2.0,
+                   'Orgulho e Preconceito': 2.2,
+                   'Os Crimes do Monograma': 3.5,
+                   'Fortaleza Digital': 5.0},
+                   
+                'Diego':
+                  {'Neuromancer': 5.0,
+                   'A Culpa é das Estrelas': 4.5,
+                   'Orgulho e Preconceito': 2.5,
+                   'Os Crimes do Monograma': 3.9},
+
+                'Castro':
+                  {'O Guia do Mochileiro das Galáxias': 1.8,
+                   'A Culpa é das Estrelas': 4.5,
+                   'Orgulho e Preconceito': 4.9,
+                   'Fortaleza Digital': 2.7},
+              
               }
 
-avaliacoesLivro = {'Neuromancer': 
-		{'Lucas': 2.5, 
-		 'Ester:': 3.0 ,
-		 'Gabryell': 4.0, 
-		 'Diego': 3.0, 
-		 'Patrick': 4.0 },
-	 
-	 'Frankenstein': 
-		{'Lucas': 3.5, 
-		 'Ester': 3.5,
-		 'Douglas': 3.0, 
-		 'Gabryell': 4.5, 
-		 'Humberto': 3.0, 
-		 'Diego': 4.0 },
-				 
-	 'Nineteen Eighty-Four': 
-		{'Lucas': 3.0, 
-		 'Ester:': 1.5,
-		 'Douglas': 3.5, 
-		 'Gabryell': 3.0,
-                 'Humberto': 4.0,
-                 'Diego': 3.0,
-                 'Patrick': 4.5 },
-	
-	 'The Hitchhiker''s Guide to the Galaxy': 
-		{'Lucas': 3.5, 
+avaliacoesLivro = {'O Guia do Mochileiro das Galáxias': 
+		{'Lucas': 4.5, 
 		 'Ester:': 5.0 ,
-		 'Douglas': 4.0, 
-		 'Humberto': 3.0, 
-		 'Diego': 5.0, 
-		 'Patrick': 1.0 },
+                 'Douglas': 3.5,
+		 'Humberto': 2.5, 
+		 'Patrick': 1.5,
+                 'Matheus': 4.5,
+                 'Castro': 1.8},
+	 
+	 'Neuromancer': 
+		{'Ester': 4.2,
+		 'Douglas': 4.5, 
+		 'Patrick': 3.3, 
+		 'Matheus': 4.8, 
+		 'Diego': 5.0 },
 				 
-	 'Androides Sonham com Ovelhas Elétricas?': 
-		{'Lucas': 2.5, 
-		 'Ester:': 3.0 ,
-		 'Gabryell': 3.5, 
-		 'Humberto': 3.0 },
+	 'A Culpa é das Estrelas': 
+		{'Ester:': 3.0,
+		 'Gabryell': 1.9, 
+		 'Patrick': 3.9,
+                 'Matheus': 2.0,
+                 'Diego': 4.5,
+                 'Castro': 4.5 },
+	
+	 'Orgulho e Preconceito': 
+		{'Lucas': 1.6, 
+		 'Ester:': 4.6 ,
+		 'Douglas': 2.1,
+                 'Gabryell': 2.5,
+		 'Humberto': 4.5,
+                 'Matheus': 2.2,
+		 'Diego': 2.5, 
+		 'Castro': 4.9 },
 				 
-	 'Fahrenheit 451': 
-		{'Lucas': 3.0, 
-		 'Ester:': 3.5,
-		 'Gabryell': 2.5, 
-		 'Humberto': 2.0, 
-		 'Diego': 3.5}
+	 'Os Crimes do Monograma': 
+		{'Lucas': 2.4, 
+		 'Ester:': 3.0,
+                 'Douglas': 3.2,
+		 'Patrick': 4.0, 
+		 'Matheus': 3.5,
+                 'Diego': 3.9 },
+				 
+	 'Fortaleza Digital': 
+		{'Ester:': 3.8,
+		 'Gabryell': 4.7, 
+		 'Matheus': 5.0, 
+		 'Casro': 2.7}
 }
 
 
 #função euclidiana
 
 from math import sqrt
+import matplotlib.pyplot as plt
 import matplotlib.pyplot as plt
 
 def euclidiana(base, usuario_1, usuario_2):
@@ -145,3 +155,16 @@ def getRecomendacoes(base, usuario): #usuario a ser recomendado
     rankings.sort()
     rankings.reverse()
     return rankings
+
+def getGraficoDispersao(livroUm, livroDois):
+
+    x = [livroUm]
+    y = [livroDois]
+
+    plt.plot([1, 2, 3, 4], [4, 7, 8, 12])
+
+    plt.title('Plot De Livros')
+    plt.xlabel('Livro Um')
+    plt.ylabel('Livro Dois')
+
+    plt.show()
